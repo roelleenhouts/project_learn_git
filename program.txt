@@ -1,3 +1,5 @@
 # comment to explain my program
 a = 1
 b = 2.3
+def freeting():
+    print("Hello World")
